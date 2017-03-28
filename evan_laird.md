@@ -1,9 +1,9 @@
-#Evan LAIRD
-####evan.laird@gmail.com
-####610.476.0664
+# Evan LAIRD
+#### evan.laird@gmail.com
+#### 610.476.0664
 
 ---
-###TECHNICAL:
+### TECHNICAL:
 ---
  
 **Languages**: Swift, Objective-C, C, Python, Go, Bash, SQL
@@ -23,8 +23,11 @@ macOS, iOS
 homebrew, git, svn
 
 ---
-###EXPERIENCE:
+### EXPERIENCE:
 ---
+
+**Google** *Cambridge, MA*
+**Software Engineer** *Februray 2017-Present*
 
 **Vermont Information Processing** *Colchester, VT*
 
@@ -91,7 +94,7 @@ food expiration dates, and allowing for occasional emptying of freezer for
 cleaning/maintenance.
 
 ---
-###EDUCATION:
+### EDUCATION:
 ---
 
 **University of Vermont**	*Burlington, VT*
