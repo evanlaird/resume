@@ -27,7 +27,10 @@ homebrew, git, svn
 ---
 
 **Google** *Cambridge, MA*
+
 **Software Engineer** *Februray 2017-Present*
+
+Android 
 
 **Vermont Information Processing** *Colchester, VT*
 
